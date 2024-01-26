@@ -13,5 +13,6 @@ public class Case1 {
         }
         System.out.println("Reverse the each character");
         System.out.println(str2);
+        sc.close();
     }
 }
